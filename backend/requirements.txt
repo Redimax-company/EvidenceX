@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-multipart
+# Optional OCR support (requires the Tesseract executable installed on the OS)
+pytesseract
+Pillow
